@@ -1,0 +1,25 @@
+asgiref==3.7.2
+click==7.1.2
+click-didyoumean==0.3.0
+crispy-bootstrap5==2024.2
+distlib==0.3.8
+Django==5.0.4
+django-crispy-forms==2.1
+django-editor==0.1
+django-email-log-backend==0.3.5
+
+django-filter @ django_filter-24.2-py3-none-any.whl
+django-js-asset==2.2.0
+filelock==3.13.1
+
+
+
+p==1.4.0
+pillow==10.3.0
+platformdirs==4.2.0
+playsound==1.2.2
+pytz==2024.1
+sqlparse==0.4.4
+typing_extensions==4.9.0
+tzdata==2024.1
+virtualenv==20.25.1
