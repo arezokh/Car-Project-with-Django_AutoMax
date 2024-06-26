@@ -16,3 +16,5 @@ You have the ability to create desired posts and also you can make and edit your
 Cars can be filterd. you can have your own list.
 
 In addition you can send email.
+
+<img width="1546" alt="Screen Shot 2022-08-13 at 7 36 37 PM" src="https://github.com/arezokh/Car-Project-with-Django_AutoMax/assets/160070951/e0bc01a5-4f82-4b67-ba70-b7db374965e6">
